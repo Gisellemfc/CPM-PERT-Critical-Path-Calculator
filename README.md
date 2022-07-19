@@ -1,2 +1,15 @@
-# Proyecto2-MSR-Brito-Ferreira-Gonzalez-Manzano-Perez
-Proyecto 2 de la materia Modelación Sist. en Redes de la Universidad Metropolitana. Integrantes: Nicole Brito, Giselle Ferreira, Leonardo Gonzalez, Luis Manzano y Patricia Perez.
+
+# PERT Critical Path Calculator
+
+Project elaborated in the subject of Modeling of Systems in Networks of the Universidad Metropolitana in Caracas, Venezuela. This project simulates a critical path calculator using PERT charts in Python.
+
+## Authors
+
+- Giselle Ferreira ([Gisellemfc](https://github.com/Gisellemfc))
+- Nicole Brito ([nicoolebs](https://github.com/nicoolebs))
+- Leonardo González ([Leopgf](https://github.com/Leopgf))
+- Luis Fernando Manzano ([luismanzano](https://github.com/luismanzano))
+- Patricia Pérez ([Patriciacpd](https://github.com/Patriciacpd))
+
+
+
